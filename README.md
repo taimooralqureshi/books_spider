@@ -1,6 +1,6 @@
 ## Scrapy and selenium scraping project
 
-<span style='color:red'>requirement to run</span>
+<span style="color:red">requirement to run</span>
 1. install scrapy
 > pip install scrapy
 
